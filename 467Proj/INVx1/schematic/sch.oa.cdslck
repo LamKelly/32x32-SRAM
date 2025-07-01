@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hjoos
+HostName                       jump.ece.uic.edu
+ProcessIdentifier              9218
+ProcessCreationTime_UTC        1745528054
+ProcessCreationTime_Readable   Thu Apr 24 15:54:14 2025 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home1/AD/hjoos/467Proj/INVx1/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Apr 24 16:06:08 2025 CDT

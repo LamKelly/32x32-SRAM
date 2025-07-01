@@ -1,0 +1,7 @@
+# OpenAccess File Created by Amit Trivedi at Tue Feb  2 15:37:52 2016
+# assisted by CdsLibEditor
+DEFINE NCSU_Devices_FreePDK45 /home1/fac1/amitrt/Teaching/ECE8893_LAB/FreePDK45/ncsu_basekit/lib/NCSU_Devices_FreePDK45
+DEFINE NCSU_TechLib_FreePDK45 /home1/fac1/amitrt/Teaching/ECE8893_LAB/FreePDK45/ncsu_basekit/lib/NCSU_TechLib_FreePDK45
+DEFINE NCSU_StdCells /home1/fac1/amitrt/Teaching/ECE8893_LAB/FreePDK45/osu_soc/lib/freepdk45_cells
+DEFINE EXAMPLE /home1/fac1/amitrt/Teaching/ECE8893_LAB/Cadence/EXAMPLE
+DEFINE test /home1/fac1/amitrt/Teaching/ECE8893_LAB/Cadence/test
